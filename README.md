@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Turkan1961
+- 👋 Hi, I’m @Artur-Ismagilov
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning in Stepik
 - 💞️ I’m looking to collaborate on ...
